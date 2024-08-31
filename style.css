@@ -1,0 +1,7 @@
+body {font-family:sans-serif }
+.menu { position:fixed;margin:10px;font-size:110%;top:25%;transform: translate(0, -50%) }
+.content { margin-right:20%;margin-left:20%;margin-top:2.5% }
+.menu a {  text-decoration:none; color:black }
+.content a {  text-decoration:none; color:blue }
+a:hover { text-decoration:underline }
+img { margin:15px;margin-top:0px }
